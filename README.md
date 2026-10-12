@@ -23,4 +23,4 @@ PHP · Laravel · JavaScript · TypeScript · React · Go · Python · MySQL · 
 
 If my projects help you, you can support their servers, domains, and maintenance:
 
-[Trakteer](https://trakteer.id/caturseptian) · [Saweria](https://saweria.co/forcaturseptian) · [Ko-fi](https://ko-fi.com/caturseptian) · [PayPal](https://paypal.me/ccseptian)
+[Trakteer](https://trakteer.id/caturseptian) · [Saweria](https://saweria.co/forcaturseptian) · [Ko-fi](https://ko-fi.com/caturseptian) · [Buy Me a Coffee](https://buymeacoffee.com/caturseptian) · [PayPal](https://paypal.me/ccseptian)
