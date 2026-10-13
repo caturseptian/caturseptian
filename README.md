@@ -2,7 +2,7 @@
 
 Full-stack web developer from Indonesia. I build web apps, APIs, developer tools, and open data, from frontend to backend and infrastructure.
 
-- 🌐 Portfolio: [caturseptian.site](https://caturseptian.site)
+- 🌐 Portfolio: [caturseptian.site](https://caturseptian.site) (mirror: [caturseptian-site.caturseptian-dev.workers.dev](https://caturseptian-site.caturseptian-dev.workers.dev))
 - 💼 LinkedIn: [linkedin.com/in/caturseptian](https://linkedin.com/in/caturseptian)
 - 📫 Email: [hello@caturseptian.site](mailto:hello@caturseptian.site)
 
@@ -10,7 +10,8 @@ Full-stack web developer from Indonesia. I build web apps, APIs, developer tools
 
 | Project | Description |
 |---|---|
-| [Indonesia Region API](https://indonesia-region.caturseptian.site) | Free public API for Indonesian administrative region codes, from provinces down to villages, with postal codes. |
+| [Indonesia Region API](https://indonesia-region.caturseptian.site) | Free public API for Indonesian administrative region codes, from provinces down to villages, with postal codes. Mirror: [workers.dev](https://indonesia-region-api.caturseptian-dev.workers.dev). |
+| [iHatePDF](https://ihatepdf.caturseptian.site) | Free PDF toolkit that runs entirely in your browser: merge, split, rotate, sign and more. No uploads, no tracking. Mirror: [workers.dev](https://ihatepdf.caturseptian-dev.workers.dev). |
 | [laravel-indonesian-territory](https://github.com/caturseptian/laravel-indonesian-territory) | Latest Indonesian region codes (Kepmendagri 2025) for Laravel: CSV, migrations, seeders, Eloquent models, and a REST API. |
 | [usatrix](https://github.com/caturseptian/usatrix) | Server CPU, memory, and disk monitor with Telegram and email alerts, cooldown, and SQLite history. |
 | [laravel-2fa-app](https://github.com/caturseptian/laravel-2fa-app) | Two-factor authentication for Laravel 12, built from scratch with no external packages. |
